@@ -1,4 +1,4 @@
-@smoke
+@test
 Feature: EndToEnd
 
   Scenario: Review feature
